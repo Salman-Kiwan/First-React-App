@@ -6,7 +6,7 @@ import App from './App'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <main className="p-[40px] bg-[#151515] font-franklin">
+    <main >
       <App/>
     </main>
     
